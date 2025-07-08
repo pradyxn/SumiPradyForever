@@ -87,7 +87,12 @@ body {
   text-align: center;
   margin-bottom: 2rem;
   animation: titlePulse 2s ease-in-out infinite alternate;
-  color: white;
+  color: white !important;
+  -webkit-text-fill-color: white !important;
+  background: none !important;
+  -webkit-background-clip: unset !important;
+  background-clip: unset !important;
+  -webkit-text-stroke: 2px #000000;
   text-shadow:
     0 0 10px rgba(0, 0, 0, 0.8), 0 0 20px rgba(0, 0, 0, 0.6), 2px 2px 4px rgba(0, 0, 0, 0.8),
     -2px -2px 0 #000000, 2px -2px 0 #000000, -2px 2px 0 #000000, 2px 2px 0 #000000,
@@ -99,7 +104,12 @@ body {
   font-size: 3rem;
   text-align: center;
   margin-bottom: 2rem;
-  color: white;
+  color: white !important;
+  -webkit-text-fill-color: white !important;
+  background: none !important;
+  -webkit-background-clip: unset !important;
+  background-clip: unset !important;
+  -webkit-text-stroke: 1.5px #000000;
   text-shadow:
     0 0 8px rgba(0, 0, 0, 0.7), 0 0 15px rgba(0, 0, 0, 0.5), 2px 2px 3px rgba(0, 0, 0, 0.7),
     -2px -2px 0 #000000, 2px -2px 0 #000000, -2px 2px 0 #000000, 2px 2px 0 #000000,
@@ -203,7 +213,12 @@ body {
   font-size: 1.5rem;
   margin-bottom: 2rem;
   line-height: 1.6;
-  color: white;
+  color: white !important;
+  -webkit-text-fill-color: white !important;
+  background: none !important;
+  -webkit-background-clip: unset !important;
+  background-clip: unset !important;
+  -webkit-text-stroke: 0.8px #000000;
   text-shadow:
     0 0 5px rgba(0, 0, 0, 0.6), 0 0 10px rgba(0, 0, 0, 0.4), 1px 1px 2px rgba(0, 0, 0, 0.3),
     -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
@@ -238,7 +253,12 @@ body {
   font-size: 1.5rem;
   margin-top: 1rem;
   font-weight: bold;
-  color: white;
+  color: white !important;
+  -webkit-text-fill-color: white !important;
+  background: none !important;
+  -webkit-background-clip: unset !important;
+  background-clip: unset !important;
+  -webkit-text-stroke: 1.2px #000000;
   text-shadow:
     0 0 6px rgba(0, 0, 0, 0.7), 0 0 12px rgba(0, 0, 0, 0.5), 1px 1px 2px rgba(0, 0, 0, 0.7),
     -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
@@ -274,7 +294,12 @@ body {
   font-size: 1.2rem;
   line-height: 1.6;
   margin-bottom: 1rem;
-  color: white;
+  color: white !important;
+  -webkit-text-fill-color: white !important;
+  background: none !important;
+  -webkit-background-clip: unset !important;
+  background-clip: unset !important;
+  -webkit-text-stroke: 0.8px #000000;
   text-shadow:
     0 0 4px rgba(0, 0, 0, 0.6), 0 0 8px rgba(0, 0, 0, 0.3), 1px 1px 2px rgba(0, 0, 0, 0.3),
     -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
